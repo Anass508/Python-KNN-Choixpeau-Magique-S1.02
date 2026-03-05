@@ -16,7 +16,7 @@ Le projet repose sur plusieurs piliers de l'informatique et de l'algorithmique :
 
 
 ## 📂 Organisation du dépôt
-* [cite_start]`s102.py` : Contient l'implémentation de toutes les fonctions demandées (calcul de distance, k-NN, répartition)[cite: 18].
+*`s102.py` : Contient l'implémentation de toutes les fonctions demandées (calcul de distance, k-NN, répartition)[cite: 18].
 * [cite_start]`s101.py` : Code de base de la SAÉ précédente servant de référence[cite: 17].
 * [cite_start]`test_s102.py` : Suite de tests unitaires pour valider la robustesse de chaque fonction[cite: 18].
 * [cite_start]`conclusion_question_sae101.ipynb` : Notebook contenant l'analyse expérimentale et la comparaison des taux d'erreur[cite: 12].
